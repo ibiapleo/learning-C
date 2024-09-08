@@ -11,7 +11,7 @@ Este repositório contém uma coleção de atividades e exercícios desenvolvido
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/learning-C.git
+   git clone https://github.com/ibiapleo/learning-C.git
 
 2. Entre na pasta do exercício desejado:
     ```bash
@@ -41,11 +41,11 @@ This repository contains a collection of activities and exercises developed in t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/seuusuario/c-activities.git
+   git clone https://github.com/ibiapleo/learning-C.git
 
 2. Navigate to the desired exercise folder:
    ```bash
-   cd c-activities/folder-name
+   cd learning-C/folder-name
 
 3. Compile the program:
    ```bash
