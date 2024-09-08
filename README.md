@@ -4,7 +4,7 @@ Este repositório contém uma coleção de atividades e exercícios desenvolvido
 
 ## Estrutura do Repositório
 
-- Cada pasta contém exercícios organizados por tema ou nível de dificuldade.
+- Cada pasta contém exercícios organizados por tema.
 - Cada exercício possui um código-fonte com extensão `.c`, além de possíveis arquivos adicionais para suporte (como arquivos de entrada e saída, ou scripts de compilação).
 
 ## Como Usar
@@ -34,7 +34,7 @@ This repository contains a collection of activities and exercises developed in t
 
 ## Repository Structure
 
-- Each folder contains exercises organized by theme or difficulty level.
+- Each folder contains exercises organized by theme.
 - Each exercise has a source code file with a `.c` extension, along with any additional support files (such as input/output files or compilation scripts).
 
 ## How to Use
